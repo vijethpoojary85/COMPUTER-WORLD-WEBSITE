@@ -3,7 +3,7 @@ Computer world is an web application built specifically built for computer selli
 
 Technology used : 
 
-Frontend-HTML/CSS
+Frontend-HTML/CSS/javascript
 Backend-PHP
 Database-Mysql
 
